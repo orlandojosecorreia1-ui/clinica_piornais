@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Dentária dos Piornais",
+  "description": "Portal e aplicação de agendamento da Clínica Dentária dos Piornais no Funchal, com especialidades, equipa médica e marcação de consultas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
